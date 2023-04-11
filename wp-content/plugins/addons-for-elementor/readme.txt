@@ -4,10 +4,10 @@ Plugin URI: https://livemeshelementor.com
 Donate link: https://livemeshelementor.com/
 Contributors: livemesh, elementoraddons, freemius
 Tags: elementor, elementor addons, elementor extensions, elementor widgets, page builder, woocommerce elementor
-Requires at least: 5.2
-Tested up to: 6.0
+Requires at least: 5.4
+Tested up to: 6.1
 Requires PHP: 5.6
-Stable Tag: 7.2.3
+Stable Tag: 7.5
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
 
@@ -46,6 +46,7 @@ The plugin comes with the following Elementor addons or extensions. <strong>Almo
 * **<a href="https://livemeshelementor.com/posts-slider/" title="Posts Slider Extension">Posts Slider addon</a>** that helps showcase your posts as a highly responsive, touch enabled slider.
 * **<a href="https://livemeshelementor.com/posts-gridbox-slider/" title="Posts Grid Box Addon">Post Grid Box Slider addon</a>** that displays your posts as a slider of tiled post grids.
 * **<a href="https://livemeshelementor.com/posts-multislider/" title="Posts Multislider Extension">Posts Multislider addon</a>** that helps showcase your posts as a highly responsive, touch friendly carousel.
+* **<a href="https://livemeshelementor.com/device-slider/" title="Device Slider Addon">Device Slider</a>** is a image slider that lets you showcase your products and apps inside a phone or tablet device.
 * **<a href="https://livemeshelementor.com/team-member-profiles/" title="Team Profiles Addon">Team Profiles</a>** extension to display all the team members.
 * **<a href="https://livemeshelementor.com/odometer-counters/" title="Odometer/Counters Extension">Odometers/Counters</a>** to show impressive numbers pertaining to your work or company.
 * **<a href="https://livemeshelementor.com/progress-bars/" title="Bar Charts">Bar charts addon</a>** to capture skills or any type of percentage stats.
@@ -258,6 +259,23 @@ Email us at support[at]livemeshthemes.com and we will be happy to assist you.
 
 
 
+
+= 7.5 =
+* Added - New elegant Timeline widget. Presently only supports horizontal timeline with touch swipe functions for navigation.
+
+= 7.4 =
+* Added - Two new styles to piecharts widget with additional customization options for line width, canvas size
+* Added - A elegant new style to testimonials widget with the required customizations
+* Updated - Compatibility with Elementor 3.11
+* Updated - Freemius SDK 2.5.3 update
+
+= 7.3 =
+* Added - New Device Slider widget
+* Added - Compatibility with Elementor 3.10
+
+= 7.2.4 =
+* Added - Compatibility with WP 6.1 and Elementor 3.8
+* Added - Missing sanitization checks for theme color admin settings
 
 = 7.2.3 =
 * Added - New Marquee Text widget with plenty of customization options
